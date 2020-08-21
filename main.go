@@ -1,7 +1,9 @@
 package main
 
-import "latihan/hackerrank"
+import "problem_solving/hackerrank"
 
 func main() {
-	hackerrank.CountingValleys("DDUU DDUDUU UD")
+	input := []int{0, 0, 1, 0, 0, 0, 0, 1, 0, 0}
+	result := hackerrank.JumpingOnClouds(input)
+	print(result)
 }
