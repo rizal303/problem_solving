@@ -1,4 +1,4 @@
-package hackerrank
+package warmupchallenges
 
 // SockMerchant ...
 func SockMerchant(arr []int) int {

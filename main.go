@@ -1,8 +1,8 @@
 package main
 
-import "problem_solving/hackerrank"
+import warmupchallenges "problem_solving/hackerrank/warm_up_challenges"
 
 func main() {
-	result := hackerrank.RepeatedString("abaa", 3)
+	result := warmupchallenges.CountingValleys("ss")
 	print(result)
 }

@@ -1,4 +1,4 @@
-package hackerrank
+package warmupchallenges
 
 // CountingValleys ...
 func CountingValleys(s string) int32 {

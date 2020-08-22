@@ -1,4 +1,4 @@
-package hackerrank
+package warmupchallenges
 
 // JumpingOnClouds ...
 func JumpingOnClouds(c []int) int32 {
